@@ -2,7 +2,9 @@ html, body {
   height: 100%; }
 
 body {
-  position: relative; }
+  position: relative;
+  background-color: #eee;
+}
 
 .header {
   background: url("../images/0.jpg") no-repeat center center fixed;
